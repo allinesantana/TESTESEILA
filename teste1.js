@@ -1,1 +1,1 @@
-dconsole.log('olá pessoas')
+console.log('olá pessoas')
